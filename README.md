@@ -4,7 +4,7 @@ Beat 'em up 2.5D (estilo *Streets of Rage*) inspirado em Kimetsu no Yaiba, escri
 Não usa nenhuma biblioteca externa: os gráficos são desenhados pixel a pixel por um renderizador por software
 (640×360, escalado para a janela), o som é sintetizado em tempo real com `waveOut`, e o texto usa GDI.
 
-Jogo de fã, sem fins lucrativos.
+Jogo de fã, sem fins lucrativos. mas se puder se inscrever no meu canal do youtube( juliusAI736 ) ou so deixar o like nos video ja ajudaria demais tipo vc nao tem ideia do quanto :3 
 
 ## Como compilar
 
